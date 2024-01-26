@@ -38,13 +38,15 @@ The project follows the Page Object Model (POM) design pattern with the followin
 
 1. Clone the repository:
 
+    ```bash
     git clone https://github.com/AlmirRekanovic/webzio-ui.git
-    
+    ```
 
 2. Navigate to the project directory:
 
+    ```bash
     cd webzio-ui
-    
+    ```
 
 3. Ensure you have Java and Maven installed.
 
